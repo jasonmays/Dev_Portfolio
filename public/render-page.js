@@ -152,7 +152,7 @@ var plugins = [{
   plugin: __webpack_require__(/*! ./node_modules/gatsby-plugin-manifest/gatsby-ssr */ "./node_modules/gatsby-plugin-manifest/gatsby-ssr.js"),
   options: {
     "plugins": [],
-    "name": "John Doe",
+    "name": "Jason Mays",
     "short_name": "starter",
     "start_url": "/",
     "background_color": "#6b63ff",
