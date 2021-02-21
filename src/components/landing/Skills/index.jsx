@@ -15,11 +15,11 @@ export const Skills = () => {
           <img src={dev} alt="I’m Jason and I’m a Web Developer!" />
         </Thumbnail>
         <Details theme={theme}>
-          <h1>About me</h1>
+          <h1>About Me</h1>
           <p>
-            Currently, Jason is a senior at Temple Univeristy majoring in Managemnet Information Systems. He has
-            extensive experience with HTML5, JavaScript, CSS, SCSS, React.js and Python. Jason is interested in software
-            development that helps make the world a better place.
+            Currently, I am a senior at Temple Univeristy majoring in Managemnet Information Systems. I have extensive
+            experience with HTML5, JavaScript, CSS, SCSS, React.js and Python. I am interested in software development
+            that helps make the world a better place.
           </p>
           <Button as={AnchorLink} href="#contact">
             Hire me
