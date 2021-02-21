@@ -43,6 +43,7 @@ export default () => (
       } catch (err) {
         setSubmitting(false);
         setFieldValue('success', false);
+        // eslint-disable-next-line no-console
         console.log(err);
         // eslint-disable-line alert('Something went wrong, please try again!')
       }
